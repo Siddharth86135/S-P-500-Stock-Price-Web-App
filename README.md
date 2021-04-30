@@ -1,1 +1,2 @@
-# S-P-500-Stock-Price-Web-App
+# Face-Detection
+Face detection streamlit app using cascade classifiers
